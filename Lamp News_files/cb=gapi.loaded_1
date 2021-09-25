@@ -1,5 +1,0 @@
-gapi.loaded_1(function(_){var window=this;
-_.B("gapi.rpc.setup",_.Vk);_.B("gapi.rpc.register",_.Kk);_.B("gapi.rpc.call",_.Ok);_.B("gapi.rpc.unregister",_.Lk);_.B("gapi.rpc.sendHandshake",function(a,b){_.Vk(a)();_.Fk.send(a,_.Fk.$B(b),"*")});
-
-});
-// Google Inc.
